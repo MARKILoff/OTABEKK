@@ -13,7 +13,7 @@
     font-size: 30px;
     text-align: center;
     padding-top: 30%;
-    font-family: Cursive;
+    font-family: Monospace;
 }
 @media only screen and (max-width: 400px) {
     .typed-js {
@@ -26,5 +26,4 @@
 }
 .qale {
     font-family: Monospace;
-
 }
