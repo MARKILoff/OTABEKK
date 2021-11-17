@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.typed-js {
+    height: 100vh;
+    background-size: cover;
+    background-image: url('./images/otash.jpg');
+}
+.element {
+    color: rgb(14, 4, 1);
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30%;
+    font-family: Cursive;
+}
+@media only screen and (max-width: 400px) {
+    .typed-js {
+        color: white;
+    }
+}
+.siroj {
+    padding-top: 200px;
+    font-family: Cursive;
+}
+.qale {
+    font-family: Monospace;
+
+}
