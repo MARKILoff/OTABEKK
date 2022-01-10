@@ -6,7 +6,7 @@
 .typed-js {
     height: 100vh;
     background-size: cover;
-    background-image: url('./images/otash.jpg');
+    /* background-image: url('./images/otash.jpg'); */
 }
 .element {
     color: rgb(14, 4, 1);
