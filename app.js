@@ -1,6 +1,5 @@
 let options = {
-    strings: ['Sayfuloo...', 'Eeee','Sayfuloo...','Jiyan qalesan','tincmisan ', 'mazen yaxshimi🖐🖐🖐',
-    'bugn kelasamiii kottt'],
+    strings: ["ssss"],
     typeSpeed: 60,
     startDelay: 2000,
     backSpeed: 50,
